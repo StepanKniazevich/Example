@@ -1,4 +1,4 @@
-Андрій Д, [05.12.18 03:19]
+
 #include<iostream> 
 #include<vector> 
 #include<cstdlib> 
@@ -181,7 +181,7 @@ while (! input_file.eof()){
     n++;
   }
 }
-Андрій Д, [05.12.18 03:19]
+ГЂГ­Г¤Г°ВіГ© Г„, [05.12.18 03:19]
 int i, k=1;
   ifstream fin("text.txt");
   Visiting object[n];
